@@ -23,7 +23,8 @@ class CoinsFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         _binding = FragmentCoinsBinding.inflate(inflater, container, false)
-
+        val userId=arguments?.getSerializable("userid") as String
+        binding.tvemail.text=userId
         viewModel.coinsModel.observe(viewLifecycleOwner) {
             it.let {
                 setupUI(it)

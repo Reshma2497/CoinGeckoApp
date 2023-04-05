@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923257287233",
+    "project_id": "coingecko-bdfad",
+    "storage_bucket": "coingecko-bdfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923257287233:android:9edebe5285ceee89310cc0",
+        "android_client_info": {
+          "package_name": "com.example.coingecko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923257287233-dotlfcebchss5lt484bp10n2rdvq2oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYIjltktB_Wge7KtEIpz9nJ-vKFAScNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923257287233-dotlfcebchss5lt484bp10n2rdvq2oh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
